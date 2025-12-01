@@ -1,0 +1,6 @@
+/bin/
+*.class
+.metadata
+.recommenders
+*.prefs
+.DS_Store
